@@ -1,0 +1,68 @@
+{
+    "home":{
+        "description":"Secure your notes, protect your privacy with EnigmaNote",
+        "menu_1":"Generate Password",
+        "menu_2":"Add Note",
+        "menu_3":"Password Checker",
+        "menu_4":"My Notes"
+    },"password_generator" : {
+
+        "title": "Password Generator",
+        "letter" : "Letter",
+        "number" : "Number",
+        "special_character":"Special Character",
+        "length" : "Length",
+        "generate_password":"Generate Password",
+        "content" : "Content",
+        "copy_pass" : "Copied"
+
+    },
+
+    "add_note" :{
+        "title": "Add Note",
+        "note_title":"Title",
+        "description":"Your Note",
+        "check_encryption_title" : "Set a password",
+        "btn_add" : "Add My Note",
+        "psw_title" : "Password",
+        "please_wait" : "Please wait...",
+        "success_save" : "Your note has been saved.",
+        "error_save"  :"An error occured. Please try again."
+        },
+
+    "my_notes" : {
+        "title" : "My Notes",
+        "no_notes" : "Note list is empty.",
+        "enter_password":"Enter your password",
+        "btn_ok":"OK",
+        "btn_cancel" : "CANCEL",
+        "success_delete" : "Your note has been deleted.",
+        "error_delete"  :"An error occured. Please try again.",
+        "warning_delete" : "Are you sure you want to delete the note? This action cannot be undone."
+    },
+
+    "note_detail" : {
+        "title": "Edit",
+        "save_edit" : "Save",
+        "error_save"  :"An error occured. Please try again.",
+        "success_save" : "Changes have been saved."
+    },
+
+    "onboard" : {
+        "first_title" : "Welcome to EnigmaNote!",
+        "first_description" : "Create and store notes securely.",
+        "second_title" : "Protect with Password",
+        "second_description" : "Secure your notes with a password and ensure your privacy.",
+        "third_title": "Generate Strong Passwords",
+        "third_description" : "Create strong and secure passwords with our password generator.",
+        "fourth_title" :" Measure Password Strength",
+        "fourth_description" : "Measure the strength of generated passwords and create stronger passwords." ,
+        "btn_title" : "Let's Get Started"
+       
+    },
+    "password_strength" : {
+        "title" : "Password Security",
+        "password": "Password"
+    
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "home":{
+        "description":"Notlarınızı güvence altına alın, gizliliğinizi EnigmaNote ile koruyun.",
+        "menu_1":"Parola Üretici",
+        "menu_2":"Not Ekle",
+        "menu_3":"Parola Denetleyici",
+        "menu_4":"Notlarım"
+    },
+
+    "password_generator" : {
+        "title": "Parola Oluşturucu",
+        "letter" : "Harf",
+        "number" : "Rakam",
+        "special_character":"Özel Karakter",
+        "length" : "Uzunluk",
+        "generate_password":"Parola Oluştur",
+        "content" : "İçerik",
+        "copy_pass" : "Kopyalandı"
+    },
+
+    "add_note" :{
+        "title": "Not Ekle",
+        "note_title":"Başlık",
+        "description":"Not",
+        "check_encryption_title" : "Parola belirle",
+        "btn_add" : "Not Ekle",
+        "psw_title" : "Parola",
+        "please_wait" : "Lütfen bekleyiniz...",
+        "success_save" : "Notunuz kaydedildi.",
+        "error_save"  :"Hata oluştu. Lütfen tekrar deneyin."
+    },
+
+    "my_notes" : {
+        "title" : "Notlarım",
+        "no_notes" : "Not listesi boş.",
+        "enter_password":"Parolanızı Girin",
+        "btn_ok":"TAMAM",
+        "btn_cancel" : "IPTAL",
+        "success_delete" : "Notunuz başarıyla silindi",
+        "error_delete"  :"Silme işlemi sırasında bir hata oluştu.",
+        "warning_delete" : "Notu silmek istediğinizden emin misiniz? Bu işlem geri alınamaz." 
+
+    },
+
+    "note_detail" : {
+        "title": "Düzenle",
+        "save_edit" : "Kaydet",
+        "error_save"  :"Hata oluştu. Lütfen tekrar deneyin.",
+        "success_save" : "Değişiklikler kaydedildi."
+    },
+
+
+    "onboard" : {
+        "first_title" : "EnigmaNote'a Hoşgeldiniz!",
+        "first_description" : "Güvenli bir şekilde notlar oluşturun ve saklayın",
+        "second_title" : "Parolayla Koruyun",
+        "second_description" : "Oluşturduğunuz notları parola ile koruyun ve gizliliğinizi sağlayın.",
+        "third_title": "Güçlü Şifreler Üretin",
+        "third_description" : "Şifre üreticimizle güçlü ve güvenli şifreler oluşturabilirsiniz.",
+        "fourth_title" :" Şifre Güvenliğini Ölçün",
+        "fourth_description" : "Üretilen şifrelerin güçlülüğünü ölçün ve daha güvenli şifreler oluşturun." ,
+        "btn_title" : "Hadi Başlayalım"
+    },
+    "password_strength" : {
+        "title" : "Parola Denetleyici",
+        "password": "Parola"
+    
+    }
+}
